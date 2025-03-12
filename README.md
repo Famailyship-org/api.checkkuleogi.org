@@ -109,7 +109,7 @@
 ### 5.5 Cooperation
 <table>
   <tr>
-    <th>Git</th><th>Figma</th><th>Notion</th>
+    <th>Git</th><th>Figma</th><th>Notion</th><th>Jira</th>
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="Git" width="50"></td>
