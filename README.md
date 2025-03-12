@@ -115,6 +115,7 @@
     <td align="center"><img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="Git" width="50"></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/aa07f6bc-5034-4461-babf-82ada48f36b0" alt="Figma" width="50"></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="50"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b2b52921-2664-464b-818a-ebbe16fd2d14" alt="Jira" width="50"></td>
   </tr>
 </table>
 
